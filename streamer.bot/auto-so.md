@@ -2,7 +2,7 @@
 
 This script is designed to provide automated shoutouts in two specific scenarios: when someone raids your channel and when someone special (from a predefined list) appears in your chat. All potential conflicts are covered by the script unless someone intervenes into the flow (e.g. by sending a Twitch-native shoutout before the bot did).
 
-## Scenarios
+## Features
 
 ### When someone raids your channel
 
