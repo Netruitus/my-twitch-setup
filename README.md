@@ -10,7 +10,8 @@ Feel free to tweak this as you see fit!
 
 ### Streamer.bot
 
-- **[Auto SO](streamer.bot/auto-so.md)** - Script for automated shoutouts on Twitch for two scenarios: when someone raids the channel and/or when someone special appears in the chat.
+- **[Auto SO](streamer.bot/auto-so.md)** - Automated shoutouts on Twitch for two scenarios: when someone raids the channel and/or when someone special appears in the chat.
+- **[Spin redeem](streamer.bot/spin-redeem.md)** - A scripted channel redeem to spin a Vtube Studio's model! ...violetely.
 
 ## Contributions and Feedback
 
